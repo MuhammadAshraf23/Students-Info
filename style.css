@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    padding: 40px; 
+}
+.navbar-brand{
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    left: 690px;
+     top: 260px; 
+}
+.image{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    left: 690px;
+     top: 960px; 
+}
+.tgirl{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    left: 660px;
+     top: -420px; 
+}
